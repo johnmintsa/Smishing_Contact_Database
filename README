@@ -1,5 +1,5 @@
 Initiaize a Postgres database in PgAdmin, remember the password as we will need it to run this code.
-MyLocalPostgres Instance create a database and remember that name too. 
+In MyLocalPostgres Instance create a database and remember that name too. 
 Create a ".env" file and populate it using this form:
 DATABASE_HOSTNAME=localhost
 DATABASE_PORT=5432
